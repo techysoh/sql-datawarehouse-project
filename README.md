@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Soham Mondal** , I'm a Computer Science student passionate about data, coding, and building real-world projects. I enjoy solving problems, learning new technologies, and working towards a career in tech.
 
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge in a simple, enjoyable and engaging!
+
